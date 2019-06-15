@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-          My Vue Nuxt App
+          My Nuxt Project
       </h1>
       <div class="links">
         <a
